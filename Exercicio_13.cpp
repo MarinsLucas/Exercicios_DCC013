@@ -2,6 +2,7 @@
 
 using namespace std; 
 
+//Não está funcionando!!!
 void quebraString(string s, char c)
 {  
     string *novaString = new string;
