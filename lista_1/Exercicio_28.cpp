@@ -1,5 +1,5 @@
 #include<iostream>
-
+//Não está funcionando com recursividade
 using namespace std; 
 
 bool ehPalindromo(char a[], int n)
