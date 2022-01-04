@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1525656607 source:c:\users\lucas\documents\area de trabalho\arquivos faculdade\exercícios de estrutura de dados\exercícios de estrutura de dados\avaliacao5\aula06\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"Ponto.h"
+	"ListaCont.h"
+
+1525656607 c:\users\lucas\documents\area de trabalho\arquivos faculdade\exercícios de estrutura de dados\exercícios de estrutura de dados\avaliacao5\aula06\ponto.h
+	<cmath>
+
+1641230146 c:\users\lucas\documents\area de trabalho\arquivos faculdade\exercícios de estrutura de dados\exercícios de estrutura de dados\avaliacao5\aula06\listacont.h
+	"Ponto.h"
+
+1525656607 source:c:\users\lucas\documents\area de trabalho\arquivos faculdade\exercícios de estrutura de dados\exercícios de estrutura de dados\avaliacao5\aula06\main.cpp
+	<iostream>
+	"Ponto.h"
+	"ListaCont.h"
+
